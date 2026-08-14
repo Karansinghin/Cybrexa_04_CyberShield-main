@@ -14,12 +14,3 @@ A real-time cybersecurity news and threat intelligence dashboard — the capston
 ## Tech Stack
 `HTML5` · `CSS3` · `Vanilla JavaScript` · `Chart.js`
 
-## Live Demo
-[cybershield.github.io](#)
-
-## Built By
-Siddharth Naik — M.Sc. Cybersecurity, Amity University Rajasthan
-B.Sc. Forensic Science, Parul University, Vadodara
-GitHub: https://github.com/sid131204
-
-*© 2026 Cybrexa Technologies — Capstone Project 04 of 4*
